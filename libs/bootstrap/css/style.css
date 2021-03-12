@@ -404,6 +404,17 @@ div.card{
 	.main{
 		padding: 200px 0;
 	}
+	
+	.navbar-brand{
+	color: white !important;
+
+	font-weight: bold;
+	font-size: 20px;
+		padding-left: 10px;
+	
+
+
+       }
 
 	.main h2{
 		font-size: 2em;
@@ -414,10 +425,7 @@ div.card{
 
 	}
 
-	.navbar-brand{
-		padding-left: 20px;
-
-	}
+	
 	.nav-item{
 		padding-left: 20px;
 	}
