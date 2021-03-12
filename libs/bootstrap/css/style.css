@@ -402,9 +402,9 @@ div.card{
 
 @media(max-width: 768px){
 	.main{
-		padding: 200px 0;
-		margin-left:15px;
-		margin-right:15px;
+		padding-left:15px;
+		padding-right:15px;
+		
 	}
 	
 	.navbar-brand{
