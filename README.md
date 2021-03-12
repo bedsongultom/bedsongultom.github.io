@@ -3,10 +3,11 @@ This is a Web Portfolio that contains a information about profile, portfolio, in
 ## Contents
 
 * [x] Home (https://bedsongultom.github.io/#home)
-* [x] Profile (https://bedsongultom.github.io/#profile)
-* [x] Portfolio(https://bedsongultom.github.io/#portfolio)
-* [x] Information (https://bedsongultom.github.io/#information)
-* [x] Contact(https://bedsongultom.github.io/#contact)
+* [x] About (https://bedsongultom.github.io/#about)
+* [x] Skills (https://bedsongultom.github.io/#skills)
+* [x] Services (https://bedsongultom.github.io/#services)
+* [x] Portfolio (https://bedsongultom.github.io/#portfolio)
+* [x] Contact (https://bedsongultom.github.io/#contact)
 
 ## How to test
 
