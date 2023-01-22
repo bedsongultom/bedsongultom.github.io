@@ -2,11 +2,11 @@
 This is a Web Portfolio that contains a information about profile, portfolio, information skills and contact I'm trying to keep it as simple as possible so it's suitable for html+js+css beginners to learn about creating simple portfolio website.
 ## Contents
 
-* [x] Home (https://bedsongultom.github.io/#home)
-* [x] About (https://bedsongultom.github.io/#about)
-* [x] Portfolio(https://bedsongultom.github.io/#portfolio)
+* [x] Home 
+* [x] About 
+* [x] Portfolio
 
-* [x] Contact(https://bedsongultom.github.io/#contact)
+* [x] Contact
 
 ## How to test
 
