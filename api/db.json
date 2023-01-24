@@ -131,14 +131,7 @@
                 "updated_date": "2022-10-27 12:10:22",
                 "row_number": "10"
             }
-    ],
+    ]
     
-    "users":[
-        { 
-            "id": 1, 
-            "email": "bedson@gmail.com", 
-            "password": 1 
-        }
-      ]
-
+   
 }       
