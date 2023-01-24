@@ -133,78 +133,12 @@
             }
     ],
     
-    "fruits": [
-        {
-            "id": "8378eb8f-6fda-4fb6-aa3f-fdffe455abf1",
-                "item_barcode": 10005,
-                "item_name": "Pisang",
-                "item_stock": 20,
-                "item_price": "50000",
-                "item_image": "item_image1667731541176.jpg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-11-06 02:11:41",
-                "updated_date": "2022-11-06 02:11:41",
-                "row_number": "4"
-        },
-
-        {
-            "id": "1abd4f1a-448c-4b63-bdf6-190b43970314",
-            "item_barcode": 10033,
-            "item_name": "Coconut Indonesia ",
-            "item_stock": 1000,
-            "item_price": "5000",
-            "item_image": "item_image1669102875716.jpeg",
-            "created_by": "jackgultom",
-            "updated_by": "jackgultom",
-            "created_date": "2022-11-21 11:11:15",
-            "updated_date": "2022-11-21 11:11:15",
-            "row_number": "12"
-
-        },
-        {
-
-            "id": "f15a63cf-ca35-425f-b904-2e333ca7d812",
-            "item_barcode": 10036,
-            "item_name": "Mentimun Pekanbaru",
-            "item_stock": 300,
-            "item_price": "4000",
-            "item_image": "item_image1669105528004.jpeg",
-            "created_by": "jackgultom",
-            "updated_by": "jackgultom",
-            "created_date": "2022-11-22 12:11:28",
-            "updated_date": "2022-11-22 12:11:28",
-            "row_number": "15"
-        
-        },
-
-        {
-            "id": "a4a86be8-f5d1-42de-973e-024f7c1259e3",
-            "item_barcode": 10035,
-            "item_name": "Terong Medan",
-            "item_stock": 300,
-            "item_price": "3000",
-            "item_image": "item_image1669105429497.jpg",
-            "created_by": "jackgultom",
-            "updated_by": "jackgultom",
-            "created_date": "2022-11-22 12:11:49",
-            "updated_date": "2022-11-22 12:11:49",
-            "row_number": "14"
-        },
-        {
-            "id": "4e47dfd9-da39-4ad1-9065-d30139991e96",
-            "item_barcode": 10034,
-            "item_name": "Carot Indonesia",
-            "item_stock": 250,
-            "item_price": "5500",
-            "item_image": "item_image1669105290491.jpg",
-            "created_by": "jackgultom",
-            "updated_by": "jackgultom",
-            "created_date": "2022-11-22 12:11:30",
-            "updated_date": "2022-11-22 12:11:30",
-            "row_number": "13"
+    "users":[
+        { 
+            "id": 1, 
+            "email": "bedson@gmail.com", 
+            "password": 1 
         }
+      ]
 
-    ]    
-    
 }       
