@@ -3,20 +3,20 @@
         {
             "id": 1001,
             "item_name": "Banana",
-            "image":"images/banana.jpg",
+            "image":"banana.jpg",
             "price":40000
         },
 
         {
             "id": 1002,
             "item_name": "Orange",
-            "image":"images/orange.jpg",
+            "image":"orange.jpg",
             "price":50000
         },
         {
             "id": 1003,
             "item_name": "Durian ",
-            "image":"images/durian.jpg",
+            "image":"durian.jpg",
             "price":30000
         }
     ]
