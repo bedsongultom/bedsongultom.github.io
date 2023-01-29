@@ -5,14 +5,14 @@
                 "email": "bedson@gmail.com",
                 "isAdmin": true,
                 "avatar":"https://github.com/bedsongultom/bedsongultom.github.io/blob/main/images/avatar2.png",
-                "password":"bb12345",
+                "password":"bb12345"
             },
             {
                 "id":"2",
                 "email": "guest@gmail.com",
                 "isAdmin": false,
                 "avatar":"https://github.com/bedsongultom/bedsongultom.github.io/blob/main/images/avatar1.png",
-                "password":"1234",
+                "password":"1234"
             }
-        ],
+        ]
     }
