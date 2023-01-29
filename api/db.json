@@ -1,137 +1,40 @@
-{
-    "items": [
-            {
-                "id": "2b0cab21-139c-4355-8aac-2e70749c291e",
-                "item_barcode": 10001,
-                "item_name": "Indomie Goreng Jumbo",
-                "item_stock": 50,
-                "item_price": "4500",
-                "item_image": "item_image1667025305629.jpg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-28 07:10:01",
-                "updated_date": "2022-10-29 4:45:49",
-                "row_number": "1"
-            },
-            {
-                "id": "1b8e4a60-7abf-4c0d-aa74-0f39a6d9604e",
-                "item_barcode": 10002,
-                "item_name": "Indomie mi goreng hot & spicy",
-                "item_stock": 50,
-                "item_price": "4500",
-                "item_image": "item_image1667196657082.jpg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-30 09:10:58",
-                "updated_date": "2022-10-31 1:10:57",
-                "row_number": "2"
-            },
-            {
-                "id": "e8233a9b-0a1f-4dfa-8cbc-e15d1b9e3775",
-                "item_barcode": 10003,
-                "item_name": "Sarimi Rasa Ayam Bawang",
-                "item_stock": 50,
-                "item_price": "4500",
-                "item_image": "item_image1667195416301.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-30 10:10:16",
-                "updated_date": "2022-10-30 10:10:16",
-                "row_number": "3"
-            },
-            
-            {
-                "id": "60184b78-f837-47b2-9567-d6e6bb3743d4",
-                "item_barcode": 10026,
-                "item_name": "Aqua Gelas Karton 250 ml Karton",
-                "item_stock": 20,
-                "item_price": "50000",
-                "item_image": "item_image1666969045728.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:23",
-                "updated_date": "2022-10-28 9:57:25",
-                "row_number": "4"
-            },
-            {
-                "id": "c2cb77d5-ad29-401d-855e-6e3ab8481c9f",
-                "item_barcode": 10027,
-                "item_name": "Aqua Botol Karton 600 ml Isi 24 Btl",
-                "item_stock": 50,
-                "item_price": "48000",
-                "item_image": "item_image1666856336373.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:56",
-                "updated_date": "2022-10-27 12:10:56",
-                "row_number": "5"
-            },
-            {
-                "id": "570005ac-6cfd-4b31-acdd-ae37fc592bef",
-                "item_barcode": 10028,
-                "item_name": "Aqua Botol 600 ml ",
-                "item_stock": 50,
-                "item_price": "4000",
-                "item_image": "item_image1666856377870.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:38",
-                "updated_date": "2022-10-27 12:10:38",
-                "row_number": "6"
-            },
-            {
-                "id": "ab516b8b-d3fa-4db7-8631-c014ed3fc78b",
-                "item_barcode": 10029,
-                "item_name": "Kraft Cheddar Kotak",
-                "item_stock": 20,
-                "item_price": "27000",
-                "item_image": "item_image1666856560843.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:40",
-                "updated_date": "2022-10-27 12:10:40",
-                "row_number": "7"
-            },
-            {
-                "id": "00820cdd-d17c-49a9-8767-b298a42ebdde",
-                "item_barcode": 10030,
-                "item_name": "Kraft Sigles Pcs",
-                "item_stock": 50,
-                "item_price": "8000",
-                "item_image": "item_image1666856753916.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:54",
-                "updated_date": "2022-10-27 12:10:54",
-                "row_number": "8"
-            },
-            {
-                "id": "8a6cf33c-f9db-4b57-b44c-1a2cc7f83111",
-                "item_barcode": 10031,
-                "item_name": "Blue Band Serba Guna Kemasan Plastick",
-                "item_stock": 20,
-                "item_price": "7000",
-                "item_image": "item_image1666856864166.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:44",
-                "updated_date": "2022-10-27 12:10:44",
-                "row_number": "9"
-            },
-            {
-                "id": "8b236848-06f9-4370-a9bf-51b090539dce",
-                "item_barcode": 10032,
-                "item_name": "Blue Band Serba Guna Kemasan Bowl",
-                "item_stock": 20,
-                "item_price": "12000",
-                "item_image": "item_image1666856962424.jpeg",
-                "created_by": "jackgultom",
-                "updated_by": "jackgultom",
-                "created_date": "2022-10-27 12:10:22",
-                "updated_date": "2022-10-27 12:10:22",
-                "row_number": "10"
-            }
-    ]
+ {       
+    "users": [
+        {
+            "id":"1",
+            "email": "bedson@gmail.com",
+            "isAdmin": true,
+            "avatar":"",
+            "password":"bb12345",
+        },
+        {
+            "id":"2",
+            "email": "guest@gmail.com",
+            "isAdmin": false,
+            "avatar":"",
+            "password":"1234",
+        }
+    ],
     
-   
-}       
+    "items": [
+        {
+            "id": 1001,
+            "item_name": "Banana",
+            "image":"https://github.com/bedsongultom/bedsongultom.github.io/blob/main/images/banana.jpg",
+            "price":40000,
+        },
+
+        {
+            "id": 1002,
+            "item_name": "Orange",
+            "image":"https://github.com/bedsongultom/bedsongultom.github.io/blob/main/images/orange.jpg",
+            "price":50000,
+        },
+        {
+            "id": 1003,
+            "item_name": "Durian ",
+            "image":"https://github.com/bedsongultom/bedsongultom.github.io/blob/main/images/durian.jpg",
+            "price":30000,
+        },
+    ],
+}
