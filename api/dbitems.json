@@ -9,13 +9,13 @@
         {
             "id": 1002,
             "item_name": "Orange Juice",
-            "image":"orangeJuice.jpg",
+            "image":"n1240orangeJuice.jpeg",
             "price":10000
         },
         {
             "id": 1003,
             "item_name": "Cucumber Juice ",
-            "image":"cucumberJuice.jpeg",
+            "image":"x1234cucumberJuice.jpeg",
             "price":10000
         },
         {
@@ -33,13 +33,13 @@
         {
             "id": 1006,
             "item_name": "Marquisa Juice ",
-            "image":"marquisaJuice.jpeg",
+            "image":"z134marquisaJuice.jpeg",
             "price":10000
         },
         {
             "id": 1007,
             "item_name": "Melon JUice ",
-            "image":"melonJuice.jpeg",
+            "image":"0x11melonJuice.jpeg",
             "price":10000
         },
         {
@@ -51,37 +51,43 @@
         {
             "id": 1009,
             "item_name": "Pear Juice ",
-            "image":"pearJuice.jpeg",
+            "image":"q7123pearJuice.jpeg",
             "price":10000
         },
         {
             "id": 1010,
             "item_name": "Papaya Juice ",
-            "image":"papayaJuice.jpeg",
+            "image":"x12345papayaJuice.jpeg",
             "price":10000
         },
         {
             "id": 1011,
             "item_name": "Tomato Juice ",
-            "image":"tomatoJuice.jpg",
+            "image":"a8910tomatoJuice.jpg",
             "price":10000
         },
         {
             "id": 1012,
             "item_name": "Start Fruit Juice ",
-            "image":"startfruitJuice.jpg",
+            "image":"24x56startfruitJuice.jpg",
             "price":10000
         },
         {
             "id": 1013,
             "item_name": "Pomegrade Juice ",
-            "image":"pomegradeJuice.jpg",
+            "image":"x21456pomegradeJuice.jpg",
             "price":10000
         },
         {
             "id": 1014,
             "item_name": "Wartel Juice ",
-            "image":"wartelJuice.jpg",
+            "image":"x423wartelJuice.jpg",
+            "price":10000
+        },
+        {
+            "id": 1015,
+            "item_name": "Manggo Juice ",
+            "image":"x1234manggoJuice.jpeg",
             "price":10000
         }
     ]
