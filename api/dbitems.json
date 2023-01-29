@@ -51,7 +51,7 @@
         {
             "id": 1009,
             "item_name": "Pear Juice ",
-            "image":"q7123pearJuice.jpeg",
+            "image":"q7123pearJuice.png",
             "price":10000
         },
         {
@@ -69,7 +69,7 @@
         {
             "id": 1012,
             "item_name": "Start Fruit Juice ",
-            "image":"24x56startfruitJuice.jpg",
+            "image":"24x56starfruitJuice.jpg",
             "price":10000
         },
         {
