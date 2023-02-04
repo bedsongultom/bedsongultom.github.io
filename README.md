@@ -10,7 +10,7 @@ This is a Web Portfolio that contains a information about profile, portfolio, in
 
 ## How to test
 
-* If you want to test it, please be sure to have the [bedsongultom.github.io](https://github.com/bedsongultom/bedsongultom.github.io) running.
+* If you want to test it, please be sure to have this repo running.
 
 ```
 git clone https://github.com/bedsongultom/bedsongultom.github.io
